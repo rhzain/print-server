@@ -1,0 +1,11 @@
+node_modules/
+print-queue/sessions/
+print-queue/zips/
+print-queue/
+*.zip
+*.gif
+
+.env
+# Optional editor/system noise
+.DS_Store
+Thumbs.db
