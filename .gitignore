@@ -9,3 +9,5 @@ print-queue/
 # Optional editor/system noise
 .DS_Store
 Thumbs.db
+
+credentials.json
